@@ -1,0 +1,50 @@
+
+/* Sobreescribir estilos es Bootstrap */
+
+.tituloTarjeta {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.subtituloTarjeta {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+.direccion {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+.precioNormal {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+.precioOferta {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.boton {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  border: none;
+}
+
+.tamañoLogo {
+  width: 100px;
+}
+
+.textoLight {
+  font-family: 'Roboto', sans-serif !important;
+  font-weight: lighter;
+  font-size: 18px;
+}
+
